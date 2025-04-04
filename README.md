@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm manoj kumar bind</h1>
-<h3 align="center">I’m a passionate Automation Tester with 3 years of experience</h3>
+<h3 align="center">I’m a passionate Automation Tester with 3+ years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojbind23&label=Profile%20views&color=0e75b6&style=flat" alt="manojbind23" /> </p>
 
